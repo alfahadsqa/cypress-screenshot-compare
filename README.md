@@ -30,4 +30,4 @@ Sometimes UIs change without failing tests — this plugin helps detect those vi
 
 ## License
 
-MIT
+Good SQA
