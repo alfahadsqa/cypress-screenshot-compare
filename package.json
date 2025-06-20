@@ -1,11 +1,11 @@
 {
-  "name": "cypress-screenshot-compare-001",
+  "name": "cypress-screenshot-compare-",
   "version": "1.0.0",
   "description": "A Cypress plugin to compare screenshots for visual regression testing",
   "main": "index.js",
   "keywords": ["cypress", "visual-testing", "screenshot", "compare", "pixelmatch"],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "Abdullah Al Fahad",
+  "license": "Good SQA",
   "dependencies": {
     "fs-extra": "^11.1.1",
     "pixelmatch": "^5.3.0",
